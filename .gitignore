@@ -5,3 +5,4 @@ web/pipfile
 web/appnoo.db
 web/.vscode
 web/__pycache__
+.DS_Store
