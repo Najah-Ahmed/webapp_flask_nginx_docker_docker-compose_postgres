@@ -1,0 +1,7 @@
+pipfile
+pipfile.lock
+
+web/pipfile
+web/appnoo.db
+web/.vscode
+web/__pycache__
